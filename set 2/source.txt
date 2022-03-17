@@ -1,0 +1,5 @@
+https://github.com/Inusette/Identifying-depression
+
+(https://www.aaai.org/Papers/ICWSM/2008/ICWSM08-020.pdf)
+The Psychology of Word Use in Depression Forums 
+ in English and in Spanish: Testing Two Text Analytic Approaches
